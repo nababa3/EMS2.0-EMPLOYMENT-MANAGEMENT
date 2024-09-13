@@ -1,0 +1,14 @@
+.brand-gradient {
+    background: #0091ff;
+    background: linear-gradient(to top, #0091ff, #32cd4c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.vr {
+    color: #fff;
+}
+
+.modal {
+    backdrop-filter: blur(5px);
+}
