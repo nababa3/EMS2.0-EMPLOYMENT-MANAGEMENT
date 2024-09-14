@@ -34,4 +34,4 @@
 
 
 <h3>License</h3>
-<p>This project is licensed under the [MIT License](LICENSE).</p>
+<p>This project is licensed under the [MIT License] <a href="#">LICENSE</a></p>
