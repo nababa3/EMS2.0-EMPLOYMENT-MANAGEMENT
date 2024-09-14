@@ -14,3 +14,24 @@
   <li><strong>CSS3:</strong> Styling and visual enhancements for a modern look and feel.</li>
   <li><strong>Bootstrap 5:</strong> Framework for responsive layout, components, and grid system.</li>
 </ul>
+
+<h2>Getting Started</h2>
+<h3>Prerequisites</h3>
+<p>To run this project locally, you will need:</p>
+<ul>
+  <li>A modern web browser (Google Chrome, Firefox, Safari, etc.).</li>
+  <li>Basic knowledge of HTML, CSS, and Bootstrap.</li>
+</ul>
+<h3>Installation</h3>
+<ol>
+  <li>Clone the repository:</li>
+  <code>git clone https://github.com/nababa3/EMS2.0-EMPLOYMENT-MANAGEMENT.git</code>
+  <li>Navigate to the project folder:</li>
+  <code>cd EMS2.0-EMPLOYMENT-MANAGEMENT</code>
+  <li>Open the <code>index.html</code> file in your web browser:</li>
+  <code>open index.html</code>
+</ol>
+
+
+<h3>License</h3>
+<p>This project is licensed under the [MIT License](LICENSE).</p>
