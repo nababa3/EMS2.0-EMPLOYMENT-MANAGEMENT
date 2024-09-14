@@ -1,6 +1,6 @@
-<h1>Employment Dashboard</h1>
+<h1>Employment Management</h1>
 <h2>Project Overview</h2>
-<p>The Employment Dashboard is a web-based interface designed to display employment statistics and trends in an organized, responsive, and visually appealing way. The dashboard is built using HTML, CSS, and Bootstrap, making it simple and efficient to view employment data across various devices.</p>
+<p>The Employment Managemnt is a web-based interface designed to display employment statistics and trends in an organized, responsive, and visually appealing way. The dashboard is built using HTML, CSS, and Bootstrap, making it simple and efficient to view employment data across various devices.</p>
 <h3>Features</h3>
 <ul>
   <li><strong>Responsive Design:</strong> Optimized for desktop, tablet, and mobile devices.</li>
